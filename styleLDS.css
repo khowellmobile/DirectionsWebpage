@@ -1,0 +1,42 @@
+    .largeHeader {
+      background-color: rgb(200,200,200);
+      height: 200px;
+    }
+    .topnav {
+      background-color: lightblue;
+      overflow: hidden;
+    }
+    .topnav a {
+      float: left;
+      text-align: center;
+      display: block;
+      color: white;
+      padding: 14px 16px;
+      text-decoration: none;
+    }
+    .topnav a:hover {
+      background-color: lightcyan;
+      color: black;
+    }
+    .topnav a.active {
+      background-color: lightskyblue;
+      color: black;
+    }
+    .topnav .icon {
+      display: none;
+    }
+    .base-container {
+      background-color: gray;
+    }
+    .main-container {
+      background-color: white;
+      padding: 30px;
+    }
+    .jumbotron {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+    .btn {
+      margin-top: 30px;
+    }

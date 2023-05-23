@@ -1,0 +1,61 @@
+<!DOCTYPE html> 
+<html lang="en">
+<head>
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
+
+  <title>383 Final</title>
+
+  <link rel="stylesheet" href="styleLDS.css">
+
+  <script src="info.js?rev=1"></script>
+
+</head>
+
+<body>
+
+  <div class="largeHeader text-center jumbotron">
+    <div class="main-header">
+      <h1>CSE 383 Final</h1>
+      <p>Welcome to my cse383 final project</p>
+    </div>
+    <div class="topnav text-center">
+      <a class="nav-item active" href="landing.html">Home</a>
+      <a class="nav-item" href="directions.html">Get Directions</a>
+      <a class="nav-item" href="search.html">Search History</a>
+      <a class="nav-item" href="#">About</a>
+      <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+        <i class="fa fa-bars"></i>
+      </a>
+    </div>
+  </div>
+  
+  <div class="base-container">
+    <div class="container main-container">
+      <div class="first-row row">
+        <div class="col-sm-4">
+          <h3>About</h3>
+          <p>This website and its associated pages are meant to act as a very basic mapquest type website.</p>
+        </div>
+        <div class="col-sm-4">
+          <h3>Basic Info</h3>
+          <p>Name: Kent Howell</p><br><p>Class: CSE 383</p><br><p>Assignment: Final Project 2021</p>
+        </div>
+        <div class="col-sm-4">
+          <h3>How to use</h3>
+          <p>Simply click whaat you want to do on the menu bar above!</p>
+        </div>
+      </div>
+    </div>
+  <div>
+
+        
+
+</body>
+
+</html>
