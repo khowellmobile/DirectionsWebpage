@@ -16,6 +16,6 @@ This webpage is acts as a directions giving tool that uses the MapQuest API and 
 - CSS
 - Javascript
 - Libraries and APIs
-    - jQuery
+    - [jQuery](https://jquery.com/)
     - [MapQuest Directions API](https://developer.mapquest.com/documentation/directions-api)
     - [Bootstrap](https://getbootstrap.com)
